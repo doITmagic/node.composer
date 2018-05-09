@@ -55,7 +55,7 @@ ADD package.json /var/package.json
 
 RUN npm install express && npm install socket.io && npm install redis &&  npm install mysql && npm install request
 
-VOLUME [/var/www,/var/script]
+VOLUME [/var/www,/var/script,/var/package.json]
 
 WORKDIR /var/script
 

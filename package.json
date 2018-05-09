@@ -1,0 +1,12 @@
+{
+  "name": "node8.composer",
+  "version": "1.0.0",
+  "description": "for node node 8.x docker container",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doITmagic/node8.composer"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/doITmagic/node8.composer#readme"
+}
